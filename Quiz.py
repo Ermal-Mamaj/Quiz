@@ -38,7 +38,7 @@ quiz = {
         },
     "question10": {
             "question"  : "What is the capital of Switzerland: ",
-            "answer"    :  "Latvia"
+            "answer"    :  "Bern"
         }
 }
 score = 0
